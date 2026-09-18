@@ -1,0 +1,6 @@
+[
+  "tests/test_processing.py::test_array_shape",
+  "tests/test_processing.py::test_coordinate_array_structure",
+  "tests/test_processing.py::test_dummy_pass",
+  "tests/test_processing.py::test_image_array_creation"
+]
