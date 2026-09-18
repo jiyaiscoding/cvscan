@@ -43,7 +43,7 @@ SmartDoc_Computer-Vision/
 Ensure you have Python 3.9+ installed on your system.
 
 **2. Clone Repository**
-git clone [https://github.com/Aristhi/SmartDoc_Computer-Vision.git](https://github.com/Aristhi/SmartDoc_Computer-Vision.git)
+git clone https://github.com/jiyaiscoding/cvscan.git
 cd SmartDoc_Computer-Vision
 
 **3. Create & Activate Virtual Environment**
