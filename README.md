@@ -44,7 +44,11 @@ Ensure you have Python 3.9+ installed on your system.
 
 **2. Clone Repository**
 git clone https://github.com/jiyaiscoding/cvscan.git
+<<<<<<< HEAD
 cd SmartDoc_Computer-Vision
+=======
+cd cvscan
+>>>>>>> ca6366e (Updated project)
 
 **3. Create & Activate Virtual Environment**
 # For Windows
